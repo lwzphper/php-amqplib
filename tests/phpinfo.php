@@ -1,5 +1,5 @@
 <?php
-
+// 测试pull request操作
 echo '# General info', PHP_EOL;
 phpinfo(INFO_GENERAL);
 echo PHP_EOL;
